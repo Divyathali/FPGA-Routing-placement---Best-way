@@ -55,7 +55,7 @@ for the example,
   <li> Node handling </li>
   <li> Connection handling </li>
   <li>Parallelism</li>
-  <li>dynamic table updation</li>
+  <li>Dynamic table updation</li>
   
   etc..,
   
